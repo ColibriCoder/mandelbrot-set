@@ -1,1 +1,1 @@
-# mandelbrot-set
+# Mandelbrot Set simulation
